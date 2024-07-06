@@ -1,5 +1,7 @@
 - name: Alkohol
   count: viel
+- name: Franzbranntwein
+  count: 1
 - name: Teekanne
   count: 1
 - name: Tee
@@ -51,6 +53,8 @@
 - name: Handtücher
   count: 6
 - name: Waschlappen
+  count: 6
+- name: Körperpuder
   count: 1
 - name: Bikinis / Badeanzüge 
   count: 3
@@ -111,7 +115,7 @@
 - name: Schwamm
   count: 1
 - name: Stricks
-  count: 2
+  count: 68
 - name: Schreibzeug
   count: 1
 - name: Schere
